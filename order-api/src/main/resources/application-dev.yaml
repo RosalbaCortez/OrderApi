@@ -1,0 +1,7 @@
+client:
+  service:
+    url: http://localhost:8080/api/clients/
+
+product:
+  service:
+    url: http://localhost:8080/api/products/
